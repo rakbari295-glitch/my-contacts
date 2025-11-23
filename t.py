@@ -192,5 +192,5 @@ list1.place(x=35, y=170)
 scor.place(x=310 , y=170 , height=250)
 scor.config(command = list1.yview)
 list1.bind('<<ListboxSelect>>',select_item)
-
+#radin forked this project to work on it and this is a random change
 win.mainloop()
